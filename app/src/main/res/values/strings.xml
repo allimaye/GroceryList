@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">GroceryList</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="SendTextOption">Send Text</string>
-    <string name="ItemName">Item Name Here</string>
-    <string name="FoodGroup">food group here</string>
-    <string name="ClearInfoOption">Clear saved information</string>
-</resources>
